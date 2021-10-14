@@ -1,4 +1,4 @@
-# ArditsMegaPythonCourse
+# Personal Projects
 
 This repository will hold each project I do from 'The Python Mega Course: Build 10 Real World Applications' on Udemy.
 
