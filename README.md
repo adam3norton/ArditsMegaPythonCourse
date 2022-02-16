@@ -1,15 +1,9 @@
 # Personal Projects
 
-This repository will hold each project I do from 'The Python Mega Course: Build 10 Real World Applications' on Udemy.
+This repository will hold projects I do for fun.
 
 The projects include:
-- A Volcano Map
-- A WebCam Detecting Objects
+- A Volcano Map (Spin-off from the Volcano Map on "The Python Mega Course 2022: Build 10 Real-World Programs")
+- A WebCam Detecting Objects (Spin-off from the Volcano Map on "The Python Mega Course 2022: Build 10 Real-World Programs")
 - Data Analysis and Visualization
-- Web Development with Flask
-- A Book Inventory Database App with SQL
-- A Feel-Good Mobile App
-- Web Scraping Properties for Sale on the Web
-- A Data-Collector Web App
-- A Blog and Translator with Django and Bootstrap
-- A Geography Web App
+
